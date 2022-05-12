@@ -1,1 +1,102 @@
+.head{
+  text-align: center;
+  color:whitesmoke;
+}
+.Qui{
+  text-align: center;
+  text-decoration: underline;
+  text-decoration: solid;
+}
+ .Equilateral{
+background-color: whitesmoke;
+padding-left: 45px;
+border-radius: 45px;
+display: none;
+width: 275px;
+height: 190px;
+float: left;
+border-bottom:red solid;
+border-top: red solid;
+border-left: red solid;
+border-right: red solid;
+border-style: dotted;
+}
+.backgroung{
+width: 45px;
+}
+.png{
+ width: 95px;
+ position: relative;
+background-position: center;
+}
+  
+@media (max-width: 100%) {
+.container-fluid{
+  width: 100%;
+  float: none;
+}
+}
 
+
+
+.isosceles{
+ display: none;
+ background-color: whitesmoke;
+ padding-left: 45px;
+ border-radius: 45px;
+  width: 275px;
+ height: 190px;
+ border-bottom:red solid;
+border-top: red solid;
+border-left: red solid;
+border-right: red solid;
+border-style: dotted;
+float: left;
+line-height: 1.6em;
+height:min-content, ;
+}
+.img{
+  width: 95px;
+  position: relative;
+  background-position: center;
+}
+.SCALENE{
+background-color: whitesmoke;
+padding-left: 45px;
+border-radius: 45px;
+display: none;
+width: 275px;
+height: 190px;
+display: none;
+border-bottom:red solid;
+border-top: red solid;
+border-left: red solid;
+border-right: red solid;
+border-style: dotted;
+float: right;
+}
+.color{
+  width: 95px;
+  position: relative;
+  background-position: center;
+}
+.nat{
+ display: none;
+background-color: whitesmoke;
+padding-left: 45px;
+border-radius: 45px;
+display: none;
+width: 275px;
+height: 190px;
+border-bottom:red solid;
+border-top: red solid;
+border-left: red solid;
+border-right: red solid;
+border-style: dotted;
+float: right;
+}
+.red{
+  width: 95px;
+  position: relative;
+  background-position: center;
+}
